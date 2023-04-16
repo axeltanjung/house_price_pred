@@ -29,7 +29,7 @@ There are 18 feature on dataset House Prediction Price, with 4.600 record as fol
 •	statezip		: zip code
 •	country		: country
 
-C. Setting Up Problem
+**C. Setting Up Problem**
 
 1.	Project Goal
 
