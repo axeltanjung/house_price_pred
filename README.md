@@ -38,30 +38,30 @@ To develop a linear regression model that accurately predicts house prices based
 Objectives:
 
 - Collect and clean a large dataset of house prices and related features.
-•	Explore the data to identify any correlations and patterns.
-•	Choose appropriate features and build a linear regression model using the dataset.
-•	Evaluate the model's performance using appropriate metrics such as mean squared error (MSE) and coefficient of determination (R-squared).
-•	Fine-tune the model and re-evaluate its performance until a satisfactory level of accuracy is achieved.
-•	Use the model to predict the prices of new houses and validate its accuracy using real-world data.
-•	Document the project and share the findings with stakeholders, including recommendations for improving the model's accuracy and potential applications for the insights gained.
+-	Explore the data to identify any correlations and patterns.
+-	Choose appropriate features and build a linear regression model using the dataset.
+-	Evaluate the model's performance using appropriate metrics such as mean squared error (MSE) and coefficient of determination (R-squared).
+-	Fine-tune the model and re-evaluate its performance until a satisfactory level of accuracy is achieved.
+-	Use the model to predict the prices of new houses and validate its accuracy using real-world data.
+-	Document the project and share the findings with stakeholders, including recommendations for improving the model's accuracy and potential applications for the insights gained.
 
 Deliverables:
 
-•	A clean dataset of house prices and relevant features.
-•	A Jupyter notebook or Python script that contains the code used to build and evaluate the linear regression model.
-•	A report that summarizes the findings of the project, including the model's accuracy, insights gained, and potential applications.
-•	A presentation that highlights the key findings and recommendations for stakeholders.
+-	A clean dataset of house prices and relevant features.
+-	A Jupyter notebook or Python script that contains the code used to build and evaluate the linear regression model.
+-	A report that summarizes the findings of the project, including the model's accuracy, insights gained, and potential applications.
+-	A presentation that highlights the key findings and recommendations for stakeholders.
 What we want to know:
 Assume we want to make report about the data to inform these:
-•	Average, maximum, minimum price of house
-•	Which transaction that have the highest price purchased?
-•	Distribution of price, sqft_living, sqft_lot, sqft_above, and sqft_basement
-•	Association between price and condition
-•	Association between price and yr built/yr renovated
-•	Association between price and sqft_living, sqft_lot, sqft_above, and sqft_basement
-•	Association between price and bedrooms, bathrooms, floors, waterfont, and view
-•	What are the most frequently purchased houses?
-•	Which city that give highest and lowest price?
+-	Average, maximum, minimum price of house
+-	Which transaction that have the highest price purchased?
+-	Distribution of price, sqft_living, sqft_lot, sqft_above, and sqft_basement
+-	Association between price and condition
+-	Association between price and yr built/yr renovated
+-	Association between price and sqft_living, sqft_lot, sqft_above, and sqft_basement
+-	Association between price and bedrooms, bathrooms, floors, waterfont, and view
+-	What are the most frequently purchased houses?
+-	Which city that give highest and lowest price?
 
 We can answer these question by doing exploration in the data
 
