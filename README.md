@@ -37,7 +37,7 @@ To develop a linear regression model that accurately predicts house prices based
 
 Objectives:
 
-•	Collect and clean a large dataset of house prices and related features.
+- Collect and clean a large dataset of house prices and related features.
 •	Explore the data to identify any correlations and patterns.
 •	Choose appropriate features and build a linear regression model using the dataset.
 •	Evaluate the model's performance using appropriate metrics such as mean squared error (MSE) and coefficient of determination (R-squared).
