@@ -9,25 +9,24 @@ The housing market is one of the most important sectors of the economy, with a s
 **B. Dataset**
 
 There are 18 feature on dataset House Prediction Price, with 4.600 record as follows:
-
-•	Date		: from May 2nd, 2014 to July 10th, 2014
-•	Price		: the price of the house for sale
-•	bedrooms	: total number of bedrooms in a house
-•	bathrooms	: total number of bathrooms in a house
-•	sqft_living	: size of the house in square feet
-•	sqft_lot		: size of the land in square feet
-•	floors		: number of floors in a house
-•	waterfront	: a house bordering water (river, lake, etc)
-•	view		: a house with an attractive view
-•	condition	: the condition of the building (scale 1-5)
-•	sqft_above	: size of housing above basement in square feet
-•	sqft_basement	: size of the basement in square feet
-•	yr_built		: year the house was built
-•	yr_renovated	: year the house was last renovated
-•	street		: address of the house
-•	city		: city where the house is located
-•	statezip		: zip code
-•	country		: country
+-	Date		: from May 2nd, 2014 to July 10th, 2014
+-	Price		: the price of the house for sale
+-	bedrooms	: total number of bedrooms in a house
+-	bathrooms	: total number of bathrooms in a house
+-	sqft_living	: size of the house in square feet
+-	sqft_lot		: size of the land in square feet
+-	floors		: number of floors in a house
+-	waterfront	: a house bordering water (river, lake, etc)
+-	view		: a house with an attractive view
+-	condition	: the condition of the building (scale 1-5)
+-	sqft_above	: size of housing above basement in square feet
+-	sqft_basement	: size of the basement in square feet
+-	yr_built		: year the house was built
+-	yr_renovated	: year the house was last renovated
+-	street		: address of the house
+-	city		: city where the house is located
+-	statezip		: zip code
+-	country		: country
 
 **C. Setting Up Problem**
 
